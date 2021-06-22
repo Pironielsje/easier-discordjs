@@ -1,0 +1,19 @@
+{
+    "name": "easier-discord",
+    "version": "1.0.0",
+    "description": "An easier way to use discord.js.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Pironielsje/easier-discordjs.git"
+    },
+    "author": "pironielsjejs",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Pironielsje/easier-discordjs/issues"
+    },
+    "homepage": "https://github.com/Pironielsje/easier-discordjs#readme"
+}
